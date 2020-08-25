@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Ninja Shoe aka Jacob",
     author_email="jacobhillman016@gmail.com",
-    description="A small example package",
+    description="Python async library for pulling news off of https://www.epicgames.com/fortnite/en-US/news",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/BigBrain21/FortniteNewsGrabber",
