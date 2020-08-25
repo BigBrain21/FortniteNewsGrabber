@@ -1,6 +1,12 @@
 # FortniteNewsGrabber
 
 An async python library for grabbing the news from [this site](https://www.epicgames.com/fortnite/en-US/news).<br />
+Installation<br />
+-
+```py
+pip install FortniteNewsGrabber
+```
+
 Basic Usage:<br />
 -
 ```py
