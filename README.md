@@ -1,7 +1,7 @@
 # FortniteNewsGrabber
 
 An async python library for grabbing the news from https://www.epicgames.com/fortnite/en-US/news.<br />
-Usage:<br />
+Basic Usage:<br />
 -
 ```py
 import FortniteNewsGrabber
@@ -14,4 +14,4 @@ async def main():
 
 asyncio.get_event_loop().run_until_complete(main())
 ```
-This will print the image of the front news element
+This will print the image of the front news element.
