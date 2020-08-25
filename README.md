@@ -14,4 +14,7 @@ async def main():
 
 asyncio.run(main())
 ```
-This will print a url to the image of the first news element.
+This will print a url to the image of the first news element:
+```
+https://cdn2.unrealengine.com/13br-megadrop-blogthumb-576x576-730037014.jpg
+```
