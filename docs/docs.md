@@ -1,4 +1,4 @@
 # Documentation
 
 ## FortniteNewsGrabber
-<p>  getAllNews()</p>
+<nobksp>  getAllNews()</nobksp>
