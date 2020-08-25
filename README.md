@@ -13,3 +13,4 @@ async def main():
 
 
 asyncio.get_event_loop().run_until_complete(main())```
+This will print the image of the front news element
