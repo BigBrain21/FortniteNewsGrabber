@@ -1,4 +1,5 @@
 # Documentation
 
 ```
-getAllNews()```
+getAllNews()
+```
