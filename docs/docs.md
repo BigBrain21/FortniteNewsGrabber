@@ -1,7 +1,7 @@
 # Documentation
 
 - FortniteNewsGrabber
--
+
 
 ```
 getAllNews()
