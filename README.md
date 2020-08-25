@@ -14,4 +14,4 @@ async def main():
 
 asyncio.run(main())
 ```
-This will print the image of the first news element.
+This will print a url to the image of the first news element.
