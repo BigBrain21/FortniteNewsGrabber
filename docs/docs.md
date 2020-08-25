@@ -1,6 +1,6 @@
 # Documentation
 
-<addr>FortniteNewsGrabber
+<addr>FortniteNewsGrabber</addr>
 
 
 ```
